@@ -1,0 +1,17 @@
+.idea/
+.DS_Store
+build.zip
+build/
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+
+.terraformrc
+terraform.rc
+.terraform-version
+
+.tfstate.d/
+
+.terraform/providers/
+.terraform/plugins/
